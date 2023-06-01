@@ -23,7 +23,7 @@ pytorch
 
 ## 📖Usage
 You can download our EDANet-Method from
->BaiduYun Disk: 
+>BaiduYun Disk: [EDANet-Method-released](https://pan.baidu.com/s/1s4dS4bV_ruUg1Ex7V7S7Qw)
 >
 >Google Drive: 
 
