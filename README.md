@@ -1,4 +1,4 @@
-# EDANet-Method for underwater image
+# EDANet for underwater image
 implementation of ''Deep Underwater Image Quality Assessment with Explicit Degradation Awareness Embedding''.
 
 ## 📋 Table of content
@@ -22,8 +22,8 @@ coming soon!
 pytorch
 
 ## 📖Usage
-You can download our EDANet-Method from
->BaiduYun Disk: [EDANet-Method-released](https://pan.baidu.com/s/1s4dS4bV_ruUg1Ex7V7S7Qw)
+You can download our EDANet from
+>BaiduYun Disk: [EDANet-released](https://pan.baidu.com/s/1s4dS4bV_ruUg1Ex7V7S7Qw)
 >
 
 ## 🍎Noting
