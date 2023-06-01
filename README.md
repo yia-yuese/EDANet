@@ -28,7 +28,10 @@ You can download our EDANet-Method from
 >Google Drive: 
 
 ## 🍎Noting
-
+First of all, you need to modify the true path. Then, Training and testing. Then, you should prepare the corresponding image datasets.
+UIEB:https://ieeexplore.ieee.org/document/8917818
+SAUD:https://ieeexplore.ieee.org/document/9749233
+UWIQA:https://www.sciencedirect.com/science/article/pii/S0923596521000503
 
 ## ✨Statement
 This project is for research purpose only, please contact us for the licence of commercial use. For any other questions please contact jiangqiuping@nbu.edu.cn.
