@@ -25,7 +25,6 @@ pytorch
 You can download our EDANet-Method from
 >BaiduYun Disk: [EDANet-Method-released](https://pan.baidu.com/s/1s4dS4bV_ruUg1Ex7V7S7Qw)
 >
->Google Drive: 
 
 ## 🍎Noting
 First of all, you need to modify the true path. Then, Training and testing. Then, you should prepare the corresponding image datasets.
@@ -34,7 +33,7 @@ First of all, you need to modify the true path. Then, Training and testing. Then
 - UWIQA: https://www.sciencedirect.com/science/article/pii/S0923596521000503
 
 ## ✨Statement
-This project is for research purpose only, please contact us for the licence of commercial use. For any other questions please contact jiangqiuping@nbu.edu.cn.
+This project is for research purpose only, please contact us for the licence of commercial use. For any other questions please contact jiangqiuping@nbu.edu.cn. 805682724@qq.com.
 
 ## 🔍Citation
 - If you find this work useful for you. Please cite:
