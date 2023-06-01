@@ -1,4 +1,4 @@
-# EDANet-Metric for underwater image
+# EDANet-Method for underwater image
 implementation of ''Deep Underwater Image Quality Assessment with Explicit Degradation Awareness Embedding''.
 
 ## 📋 Table of content
@@ -22,7 +22,7 @@ Deep Underwater Image Quality Assessment with Explicit Degradation Awareness Emb
 pytorch
 
 ## 📖Usage
-You can download our EDANet-Metric from
+You can download our EDANet-Method from
 >BaiduYun Disk: 
 >
 >Google Drive: 
