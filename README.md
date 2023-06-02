@@ -23,7 +23,7 @@ pytorch
 
 ## 📖Usage
 You can download our EDANet from
->BaiduYun Disk: [EDANet-released](https://pan.baidu.com/s/1s4dS4bV_ruUg1Ex7V7S7Qw) (key:1233)
+>BaiduYun Disk: [EDANet-released](https://pan.baidu.com/s/1fTogbDD6Ug8Lk2hHKw2L4Q) (key:1233)
 >
 
 ## 🍎Noting
